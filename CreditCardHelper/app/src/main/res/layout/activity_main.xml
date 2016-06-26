@@ -28,7 +28,10 @@
         android:layout_weight="0.04"
         android:layout_alignTop="@+id/txtbalance"
         android:layout_alignBottom="@+id/txtbalance"
-        android:textColor="@color/bright_foreground_material_dark" />
+        android:textColor="@color/bright_foreground_material_dark"
+        android:paddingLeft="2dp"
+        android:textAlignment="center"
+        android:gravity="center_vertical" />
 
     <EditText
         android:layout_width="match_parent"
@@ -51,7 +54,9 @@
         android:layout_weight="0.04"
         android:layout_alignTop="@+id/txtinterest"
         android:layout_alignBottom="@+id/txtinterest"
-        android:textColor="@color/bright_foreground_material_dark"/>
+        android:textColor="@color/bright_foreground_material_dark"
+        android:paddingLeft="2dp"
+        android:gravity="center_vertical" />
 
     <EditText
         android:layout_width="match_parent"
@@ -74,7 +79,9 @@
         android:layout_weight="0.04"
         android:layout_alignTop="@+id/txtminpayment"
         android:layout_alignBottom="@+id/txtminpayment"
-        android:textColor="@color/bright_foreground_material_dark"/>
+        android:textColor="@color/bright_foreground_material_dark"
+        android:paddingLeft="2dp"
+        android:gravity="center_vertical" />
 
     <EditText
         android:layout_width="match_parent"
@@ -97,7 +104,9 @@
         android:layout_weight="0.04"
         android:layout_alignTop="@+id/txtfinalbalance"
         android:layout_alignBottom="@+id/txtfinalbalance"
-        android:textColor="@color/bright_foreground_material_dark"/>
+        android:textColor="@color/bright_foreground_material_dark"
+        android:paddingLeft="2dp"
+        android:gravity="center_vertical" />
 
     <EditText
         android:layout_width="match_parent"
@@ -120,7 +129,9 @@
         android:layout_weight="0.04"
         android:layout_alignTop="@+id/txtremmonths"
         android:layout_alignBottom="@+id/txtremmonths"
-        android:textColor="@color/bright_foreground_material_dark"/>
+        android:textColor="@color/bright_foreground_material_dark"
+        android:paddingLeft="2dp"
+        android:gravity="center_vertical" />
 
     <EditText
         android:layout_width="match_parent"
@@ -141,7 +152,9 @@
         android:layout_weight="0.04"
         android:layout_alignTop="@+id/txtintpaid"
         android:layout_alignBottom="@+id/txtintpaid"
-        android:textColor="@color/bright_foreground_material_dark"/>
+        android:textColor="@color/bright_foreground_material_dark"
+        android:paddingLeft="2dp"
+        android:gravity="center_vertical" />
 
     <EditText
         android:layout_width="match_parent"
