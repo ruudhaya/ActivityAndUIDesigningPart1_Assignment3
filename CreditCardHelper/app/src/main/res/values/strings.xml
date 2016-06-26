@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CreditCardHelper</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_title">Credit Card Helper</string>
+    <string name="balance">Enter Card Balance (Rs)</string>
+    <string name="interest">Enter Yearly Interest Rate (%)</string>
+    <string name="minpayment">Enter Minimum Payment (Rs)</string>
+    <string name="finalbalance">Final Card Balance (Rs)</string>
+    <string name="remainingmonths">Months Remaining</string>
+    <string name="interestpaid">Interest Paid Will Be (Rs)</string>
+    <string name="compute">COMPUTE</string>
+    <string name="clear">CLEAR</string>
+
+    <color name="bground">#050505</color>
+    <color name="txtcolor">#f2f2f2</color>
+
+</resources>
